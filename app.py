@@ -6,6 +6,7 @@ import seaborn as sns
 from helper import most_common_words, daily_timeline
 
 st.sidebar.title("WhatsApp chat analyzer")
+st.sidebar.image("Whatsapp.png")
 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 if uploaded_file is not None:
