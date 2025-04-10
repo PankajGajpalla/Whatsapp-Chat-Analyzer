@@ -1,4 +1,4 @@
-#Whatsapp-chat-analyzer
+# Whatsapp-chat-analyzer
 ## deployed on streamlit cloud
 # https://whatsapp-chat-analyzer-kaido.streamlit.app/
 
